@@ -24,7 +24,3 @@ Aplikasi mobile pemesanan kopi dan makanan ringan berbasis Android.
 5. Klik **Run**.
 
 Data akun dan pesanan hanya simulasi selama aplikasi berjalan. Tidak menggunakan database.
-
-## Screenshot
-Tambahkan screenshot aplikasi pada folder `screenshots/`, lalu tampilkan di sini, contoh:
-`![Home](screenshots/home.png)`
